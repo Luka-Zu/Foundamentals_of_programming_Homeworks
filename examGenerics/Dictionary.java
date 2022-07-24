@@ -1,4 +1,4 @@
-package examGenerics;
+package exam;
 
 import java.util.stream.Stream;
 
